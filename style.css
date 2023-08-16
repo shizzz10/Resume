@@ -229,11 +229,11 @@ hr{
     padding: 0.02rem;
     }
     #pfp {
-        height: 5rem;
+        height: 4rem;
         padding: 1rem 0.2rem}
         
         .svg {
-            height: 15px;
+            height: 12px;
         }
         .links {
             padding: 20px;
@@ -255,39 +255,39 @@ hr{
          margin-top: 0rem;
         }
         .tittle{
-            font-size: 40px;
+            font-size: 33px;
         }
         
         h2{
-            font-size: 23px;
+            font-size: 22px;
         }
 
         p{
-            font-size: 13px;
+            font-size: 12px;
         }
 
         .skills {
             margin-top: 0rem;
-            padding: 0rem 1rem;
+            padding: 0rem .6rem;
         }
         
         .language {
             margin-top: 0rem;
-            padding: 0rem 1rem;
+            padding: 0rem .6rem;
         }
         
         .education {
             margin-top: 0rem;
-            padding: 0rem 1rem;
+            padding: 0rem .6rem;
         }
         
         .hobbies {
             margin-top: 0rem;
-            padding: 0rem 1rem;
+            padding: 0rem .6rem;
         }
         
         .footer {
             margin-top: 0rem;
-            padding: 0rem 1rem;
+            padding: 0rem .6rem;
         }
 }
